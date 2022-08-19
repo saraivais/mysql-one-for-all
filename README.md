@@ -31,6 +31,14 @@ MySQL Workbench was used as a visual tool for ERD modeling, table manipulation, 
 - Database design through Entity-Relationship Diagram;
 - The first three Normal Forms of Relational Databases;
 
+### Non-normalized Tables (provided by Trybe)
+![non-normalied-table](https://user-images.githubusercontent.com/96205316/185629015-7b5b4aa0-4569-4bb3-a2e5-cb1fddf3462e.png)
+
+
+## Normalized Entity-Relationship Diagram
+![normalized-table](https://user-images.githubusercontent.com/96205316/185629043-d80109f3-3e17-4f10-bd6b-79ab45e20251.png)
+
+  
 </details>
 
 ## Português 🇧🇷
@@ -64,5 +72,12 @@ MySQL Workbench foi usado como uma ferramenta visual para modelagem do DER, mani
 - Desenho do banco de dados através do Diagrama Entidade-Relacionamento;
 - As três primeiras Formas Normais de Bancos de Dados Relacionais;
 
+### Tabelas não normalizadas (fornecidas pela Trybe)
+![non-normalied-table](https://user-images.githubusercontent.com/96205316/185629015-7b5b4aa0-4569-4bb3-a2e5-cb1fddf3462e.png)
+
+
+### Diagrama de Entidade e Relacionamento Normalizado
+![normalized-table](https://user-images.githubusercontent.com/96205316/185629043-d80109f3-3e17-4f10-bd6b-79ab45e20251.png) 
+ 
 </details>
 
