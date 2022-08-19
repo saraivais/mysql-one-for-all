@@ -6,7 +6,7 @@
   
 ### Description
 
-One For All was developed during the Back-end module at Trybe.
+One For All was developed during the Back-end module at [Trybe](https://www.betrybe.com/).
 <br>
 This project's challenge was to create an Entity-Relationship Diagram (ERD) following the first three Normal Forms of Relational Databases from a provided non-normalized table. The ER Diagram guided the creation of the database and subsequent table population. The database created, SpotifyClone, was then used to practice SQL queries.
 
@@ -39,7 +39,7 @@ MySQL Workbench was used as a visual tool for ERD modeling, table manipulation, 
   
 ### Descrição
 
-O One For All foi desenvolvido durante o módulo Back-end da Trybe.
+O One For All foi desenvolvido durante o módulo Back-end da [Trybe](https://www.betrybe.com/).
 <br>
 O desafio deste projeto foi criar um Diagrama Entidade-Relacionamento (DER) seguindo as três primeiras Formas Normais de Bancos de Dados Relacionais a partir de uma tabela não normalizada fornecida. O Diagrama ER orientou a criação do banco de dados e posterior preenchimento de tabelas. O banco de dados criado, SpotifyClone, foi então utilizado para praticar queries SQL.
 
