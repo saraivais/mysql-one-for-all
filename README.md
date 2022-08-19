@@ -61,7 +61,7 @@ Durante o desenvolvimento, o Docker foi usado para conteinerizar a aplicação, 
 MySQL Workbench foi usado como uma ferramenta visual para modelagem do DER, manipulação de tabelas e seleção de dados usando queries SQL.
 
 ### Habilidades Desenvolvidas
-- Manipulação de strings usando ```UCASE```, ```LCASE```, ```REPLACE```, ```LEFT```, ```RIGHT```, ```CHAR_LENGTH`` ` e ```SUBSTRING```;
+- Manipulação de strings usando ```UCASE```, ```LCASE```, ```REPLACE```, ```LEFT```, ```RIGHT```, ```CHAR_LENGTH``` e ```SUBSTRING```;
 - Consultas condicionais, como ```IF``` e ```CASE```/```WHEN```/```THEN```;
 - Funções e operadores matemáticos como ```DIV```, ```MOD```, ```ROUND```, ```CEIL```, ```FLOOR```, ```RAND ```, ```POW``` e ```SQRT```;
 - Trabalhar com formatos de data usando ```CURRENT_DATE```, ```NOW```, ```DATEDIFF```, ```TIMEDIFF```, ```YEAR```, ```MONTH ```, ```DAY``` e assim por diante;
